@@ -1,0 +1,9 @@
+.module_border {
+  width: 100%;
+  border: 26px solid transparent ;
+  border-image: linear-gradient(90deg, #d20653 0%, #ff951d 100%);
+  border-image-slice: 1;
+  height: auto;
+  border-radius : 90px
+  }
+
