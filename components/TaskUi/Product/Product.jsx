@@ -1,6 +1,7 @@
 // images
 import Image from "next/image";
 import add from "../../../assets/images/add-circle.png";
+import React from 'react';
 
 // components
 import ProductCard from "./ProductCard";
