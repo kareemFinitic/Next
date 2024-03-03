@@ -28,8 +28,8 @@ const Navbar = () => {
                     className="text-gray-500 transition hover:text-gray-500/75 active:text-blue-500 active:underline text-lg"
                     href="/"
                   >
-                    {" "}
-                    Home{" "}
+                     
+                    Home 
                   </Link>
                 </li>
 
@@ -38,8 +38,8 @@ const Navbar = () => {
                     className="text-gray-500 transition hover:text-gray-500/75 active:text-blue-500 active:underline text-lg"
                     href="/task"
                   >
-                    {" "}
-                    UI-Task{" "}
+                    
+                    UI-Task
                   </Link>
                 </li>
               </ul>

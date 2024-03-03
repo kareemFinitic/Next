@@ -1,3 +1,4 @@
+'use client'
 // images
 import Image from "next/image";
 import add from "../../../assets/images/add-circle.png";

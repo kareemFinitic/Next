@@ -1,5 +1,4 @@
 "use client";
-import { api } from "@/services/Api/axios";
 import React, { useEffect, useState } from "react";
 
 import {
